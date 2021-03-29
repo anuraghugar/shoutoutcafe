@@ -1,0 +1,10 @@
+git init - Run this command only once - at initial stage
+git add . - it will add all the folder and file to the git.
+git commit -m "message" - Commit your changes and provide message - what change you have performed.
+git branch -M main - to create main branch your can run this command and M stands for main or master branch.
+git remote add origin repo_link - Run this command only once when your are adding your project to github repo which you have created in the github account.
+git push origin main - Push your change using this command and it will be added to the repo.
+
+
+
+
